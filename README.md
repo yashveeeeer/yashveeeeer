@@ -5,8 +5,8 @@
 - 🔭 Worked on **[OCSMesh (NOAA)](https://github.com/noaa-ocs-modeling/OCSMesh)** during **GSoC’25**, parallelizing raster refinement methods for HPC environments  
 - 🌱 Currently exploring **Cloud Infra, DevOps, and Parallel Web Systems (MCP & Distributed Computing)**  
 - 💡 Built **[LANCON](https://lanconai.com)** — an AI-powered multilingual chat platform enabling real-time LLM-based translations and speech synthesis  
-- 🚀 Currently building **LANCON** into a full-fledged product with a focus on scalability and low-latency AI streaming  
-
+- 🚀 Currently building **LANCON** into a full-fledged product with a focus on scalability and low-latency AI streaming
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/yashveer-singh-43627b235/" target="blank">
@@ -16,6 +16,18 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="yashveeeeer" height="30" width="40" />
 </a>
 </p>
+
+<h3 align="left">🌐 Portfolio</h3>
+
+<p align="left">
+  <a href="https://kami-port.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-2b2b2b?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+</p>
+
+
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -32,3 +44,4 @@
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashveeeeer&" alt="yashveeeeer" /></p>
+
